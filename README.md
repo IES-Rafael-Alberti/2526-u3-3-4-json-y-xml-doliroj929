@@ -22,11 +22,11 @@ Cada ejercicio en un archivo diferente.
 # Título de la Actividad
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** 3.1: Listas y tuplas
+- **ID de la Actividad:** 3.4: XML y JSON
 - **Módulo:** `Programacion` 
 - **Unidad de Trabajo:** 3.1: Listas y tuplas
-- **Fecha de Creación:** 23/11/2025
-- **Fecha de Entrega:** 23/11/2025
+- **Fecha de Creación:** 30/11/2025
+- **Fecha de Entrega:** 30/11/2025
 - **Alumno(s):** 
   - **Nombre y Apellidos:** Daniel Felipe Oliveros Rojas
   - **Correo electrónico:** doliroj929@g.educaand.es 
