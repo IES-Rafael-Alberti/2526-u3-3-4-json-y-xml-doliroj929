@@ -24,7 +24,7 @@ Cada ejercicio en un archivo diferente.
 ## Identificación de la Actividad
 - **ID de la Actividad:** 3.4: XML y JSON
 - **Módulo:** `Programacion` 
-- **Unidad de Trabajo:** 3.1: Listas y tuplas
+- **Unidad de Trabajo:** 3.4: XML y JSON
 - **Fecha de Creación:** 30/11/2025
 - **Fecha de Entrega:** 30/11/2025
 - **Alumno(s):** 
